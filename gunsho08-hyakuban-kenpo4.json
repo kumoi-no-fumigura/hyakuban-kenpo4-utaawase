@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hyakuban-kenpo4-utaawase",
  "yomi": "ひゃくばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（百番）",
+  "era": "建保4年（1216）閏6月9日",
+  "author": "主催 順徳天皇／判者 藤原定家",
+  "desc": "順徳天皇の内裏で催された百番の歌合。院・定家・讃岐・越前・経通・知家・雅経・範宗・行能・行意らが詠み、治部卿定家が判をした。判詞を書写した経緯を記す奥書を伴う。"
+ },
  "editions": [
   {
    "pid": "1879502",
